@@ -1,10 +1,7 @@
 // Output  ways in java 
-import java.util.*;
-
-
 public class OutputsInJava
 {
-public static void main(String tanmay[])
+public static void main(String args[])
 {
     int roll = 10;
     String name = " tanmay pandey";
