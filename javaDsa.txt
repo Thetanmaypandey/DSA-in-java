@@ -1,0 +1,60 @@
+Hello , this repository contains the java dsa codes which i've done during my java dsa cirtification
+
+Java Data Structures and Algorithms (DSA) Syllabus
+
+Module 1: Introduction to Data Structures and Algorithms
+- Importance of DSA in Problem Solving
+- Time and Space Complexity
+- Asymptotic Notations (Big-O, Big-Theta, Big-Omega)
+- Recursion and Backtracking
+
+Module 2: Arrays and Strings
+- One-Dimensional and Multi-Dimensional Arrays
+- Array Manipulation Techniques
+- String Handling in Java
+- StringBuilder and StringBuffer
+- Searching Algorithms (Linear Search, Binary Search)
+- Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort)
+
+Module 3: Linked Lists
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
+- Operations (Insertion, Deletion, Searching, Reversal)
+
+Module 4: Stacks and Queues
+- Stack: Implementation using Array and Linked List
+- Applications of Stack (Infix to Postfix, Postfix Evaluation, etc.)
+- Queue: Implementation using Array and Linked List
+- Circular Queue, Deque, Priority Queue
+
+Module 5: Trees and Graphs
+- Binary Trees (Traversal, Construction, Applications)
+- Binary Search Tree (BST)
+- AVL Tree, B-Trees
+- Graph Representations (Adjacency Matrix, Adjacency List)
+- Graph Traversal Algorithms (DFS, BFS)
+- Shortest Path Algorithms (Dijkstra, Floyd-Warshall)
+
+Module 6: Hashing and Heaps
+- Hash Tables and Hash Functions
+- Collision Handling Techniques (Chaining, Open Addressing)
+- Heap Data Structure (Min-Heap, Max-Heap)
+- Heap Sort Algorithm
+
+Module 7: Dynamic Programming and Greedy Algorithms
+- Concept of Dynamic Programming
+- Famous DP Problems (Knapsack, Longest Common Subsequence, etc.)
+- Greedy Algorithm Approach and Applications
+
+Module 8: Advanced Topics
+- Tries and Suffix Trees
+- Segment Trees and Fenwick Trees
+- Graph Algorithms (Topological Sorting, Strongly Connected Components)
+- NP-Completeness and Approximation Algorithms
+
+Module 9: Practice and Competitive Programming
+- Problem Solving on Platforms like LeetCode, CodeChef, Codeforces
+- Common Interview Questions on DSA
+- Mock Interviews and Coding Challenges
+
