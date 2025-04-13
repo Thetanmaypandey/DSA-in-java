@@ -8,6 +8,11 @@ public class ReverseOfInteger2 {
         while(num != 0)
         {
             int digit = num % 10 ;
+            // check for overflows
+            if(reversed > Integer.MAX_VALUE/10 || (reversed == Integer.MAX_VALUE/10 && digit > 7))
+                return 0;
+            if(reversed < Integer.MIN_VALUE/10 || (reversed == Integer.MIN_VALUE/10 && digit < -8))
+                return 0;
             reversed = reversed * 10 + digit ;
             num /= 10;
         }
